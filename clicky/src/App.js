@@ -97,7 +97,7 @@ class App extends Component {
     render() {
         return (
             <Wrapper>
-                <Title>To boldly click where no one has clicked before!</Title>
+                <Title>Candy Clicky Game</Title>
         
                 <h3 className="scoreSummary">
                     {this.state.clickMessage}
