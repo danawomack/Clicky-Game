@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "./assets/images/airhead.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "./assets/images/hershey.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "./assets/images/jolly.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "./assets/images/kitkat.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "./assets/images/mm.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "./assets/images/resses.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "./assets/images/skittles.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "./assets/images/snickers.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "./assets/images/sourpatch.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "./assets/images/starburst.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "./assets/images/sweettart.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "./assets/images/twix.jpg",
+      "clicked": false
+    }
+  ]
